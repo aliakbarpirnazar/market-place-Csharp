@@ -1,0 +1,94 @@
+﻿@using ServiceLayer.ViewModels.StoreViewModels
+@model ManageProductBySellerViewModel
+<form method="post" id="frm-Data">
+    <div class="row">
+        <div class="form-group col-6">
+            <label asp-for="FaTitle"></label>
+            <input type="text" class="form-control" asp-for="FaTitle">
+            <span asp-validation-for="FaTitle"></span>
+        </div>
+        <div class="form-group col-6">
+            <label asp-for="EnTitle"></label>
+            <input type="text" class="form-control" asp-for="EnTitle">
+            <span asp-validation-for="EnTitle"></span>
+        </div>   
+        <div class="form-group col-6">
+            <label asp-for="CategoryId"></label>
+            <select class="form-control" asp-for="CategoryId" asp-items="@ViewBag.ListCategories">
+                <option value="0">--انتخاب دسته بندی--</option>
+            </select>
+            <span asp-validation-for="CategoryId"></span>
+        </div>
+        <div class="form-group col-6">
+            <label asp-for="ProductFeature"></label>
+            <textarea rows="3" type="text" id="editor1" class="form-control" asp-for="ProductFeature"></textarea>
+                <span asp-validation-for="ProductFeature"></span>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="IndexImage1"></label>
+                <div data-url="@Url.Action("UploadProductIndexImage", "UserPanel")" class="dropzone" id="IndexImage">
+                    <div class="fallback">
+                        <input name="files" type="file" multiple />
+                    </div>
+                    <div class="dz-message text-primary">
+                        <i class="fa fa-upload"></i>
+                        <span>کاربر عزیز تصویر محصول خود را انتخاب کنید</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+   
+</form>
+
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial"></partial>
+
+    <script>
+        function myParamName() {
+            return "files";
+        }
+        Dropzone.options.IndexImage = {
+            url: $("#IndexImage").attr("data-url"),
+            //autoProcessQueue: false,
+            paramName: function () {
+                return myParamName();
+            }, // The name that will be used to transfer the file
+            uploadMultiple: true,
+            parallelUploads: 1,
+            init: function () {
+                this.on("sendingmultiple",
+                    function (file) {
+                        $("#SubmitBtn").prop("disabled", true);
+                    });
+                this.on("queuecomplete",
+                    function (file) {
+                        $("#SubmitBtn").prop("disabled", false);
+                    });
+                this.on("successmultiple",
+                    function (file, response) {
+                        if (response.status === "success") {
+                            $("#BankCartImage").val(response.data);
+                        }
+                        else {
+                            swal("Error", "عملیات با خطا مواجه شد .", "error");
+                        }
+                    });
+                this.on("maxfilesreached",
+                    function (file) {
+                        this.removeEventListeners();
+                    });
+            },
+        };
+    </script>
+    <script src="//cdn.ckeditor.com/4.21.0/standard/ckeditor.js"></script>
+    <script>
+        // Replace the <textarea id="editor1"> with a CKEditor 4
+        // instance, using default configuration.
+        CKEDITOR.replace('editor1');
+    </script>
+    }

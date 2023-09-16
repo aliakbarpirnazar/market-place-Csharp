@@ -1,0 +1,45 @@
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.deps.json
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.pdb
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CopyComplete
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\refint\ServiceLayer.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.pdb
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ref\ServiceLayer.dll
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.deps.json
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.dll
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.pdb
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\DataLayer.dll
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\DataLayer.pdb
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfo.cs
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CopyComplete
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.dll
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\refint\ServiceLayer.dll
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.pdb
+D:\Project\Project WebSite\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ref\ServiceLayer.dll
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.deps.json
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.dll
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\ServiceLayer.pdb
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\DataLayer.dll
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\bin\Debug\net7.0\DataLayer.pdb
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfo.cs
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CopyComplete
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.dll
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\refint\ServiceLayer.dll
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ServiceLayer.pdb
+D:\Project\Train Project\MarketPlace-master\ServiceLayer\obj\Debug\net7.0\ref\ServiceLayer.dll

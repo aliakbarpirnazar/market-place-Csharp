@@ -1,0 +1,45 @@
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Aliakbar\Downloads\Compressed\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+D:\Project\Project WebSite\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+D:\Project\Train Project\MarketPlace-master\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
